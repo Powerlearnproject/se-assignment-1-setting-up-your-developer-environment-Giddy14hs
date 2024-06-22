@@ -83,7 +83,7 @@ This assignment aims to familiarize you with the tools and configurations necess
 - Document detailing the setup process with step-by-step instructions and screenshots where necessary.
 - A GitHub repository containing a sample project initialized with Git and any necessary configuration files (e.g., .gitignore).
 
-Github repository link: https://github.com/Giddy14hs/se-assignment-1-setting-up-your-developer-environment-Giddy14hs?tab=readme-ov-file
+Github repository link: https://github.com/Giddy14hs/Ecommerce_with_Django
 
 - A reflection on the challenges faced during setup and strategies employed to overcome them.
 
